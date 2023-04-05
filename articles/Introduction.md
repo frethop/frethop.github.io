@@ -35,7 +35,7 @@ Javascript is a programming language and is meant to be executed.  We mentioned 
 
 Obsidian provides the environment and the engine in which Javascript executes.  MORE
 
-When someone writes code in Javascript, that code must be converted into a form that Obsidian can execute.  
+When someone writes code in Javascript, that code must be converted into a form that Obsidian can execute.  This build process is depicted in Figure 1.
 
 ## Obsidian and How Plugins Plug in
 blah blah
