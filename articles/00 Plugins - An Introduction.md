@@ -1,5 +1,6 @@
 ---
 share: true
+title: Introduction
 ---
 # Writing Your Own Plugin: An Introduction
 My family enjoys board games.  From the standard to the odd, we love to play them.  Many board games have the idea of *expansion packs* -- new additions to a game that changes the way to play or adds a new challenge.  Several of the games we have played are actually boring without a few expansions.
